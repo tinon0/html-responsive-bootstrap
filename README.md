@@ -15,3 +15,21 @@ Este repositorio contiene una colección de páginas web responsive de práctica
 
 ## 🌟 Características 
   - Hecho en la materia Programación III
+## English
+# 🚀 Practical and Class Assignments
+
+This repository contains a collection of responsive web pages from practices made during my classes and other assignments. You will find code and examples of what I have learned and developed.
+
+## 📁 Content of the Repository
+
+- **Class Practices**: Files showing activities and exercises performed in class. These include:
+  - **bootstrap.html**: These files were the practice to learn the basics of Bootstrap.
+  - **index.css**: Web page adding several sections.
+  - **task.js**: Web of a responsive journal.
+
+- **Responsive Web Page Homework**: Homework where I designed web pages that fit different screen sizes.
+  - **index.css**: Web page adding several sections.
+  - **task.js**: Web of a responsive journal.
+
+## 🌟 Features 
+  - subject Programming III
